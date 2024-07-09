@@ -29,7 +29,7 @@ Jordan is an AI Assistant built using Python, which can perform various tasks su
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/Jordan-AI-Assistant-with-Python.git
+   git clone https://github.com/Monstub/Jordan-AI-Assistant-with-Python.git
    ```
 2. **Navigate to the Project Directory**:
    ```sh
